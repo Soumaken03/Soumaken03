@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soumaken03
-- 👀 I’m interested in doxing
-- 🌱 I’m currently learning doxing
-- 💞️ I’m looking to collaborate on doxing project
+- 👀 I’m interested in OSINT
+- 🌱 I’m currently learning OSINT
+- 💞️ I’m looking to collaborate on OSINT team project
 - 📫 How to reach me : Soumaken03#7003
 
 <!---
